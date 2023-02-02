@@ -1,31 +1,28 @@
-<p align="center">
-  <img src="./profile-banner.png" alt="Abdullah — Frontend · React · Next.js · AI" width="100%" />
-</p>
+```
+abdtriedcoding@world:~$ whoami
+```
 
-<p align="center">
-  I ship interfaces people actually finish using.<br />
-  <b>React</b> · <b>Next.js</b> · TypeScript — plus AI when it saves someone a step.
-</p>
+frontend nerd. i think in components, lose arguments to the typescript compiler, and ship anyway.
 
-<p align="center">
-  Frontend at Innostax · Open to relocation<br />
-  <a href="https://abdullahsidd.vercel.app">site</a>
-  ·
-  <a href="https://www.linkedin.com/in/abdtriedcoding">linkedin</a>
-  ·
-  <a href="mailto:siddabdullah46@gmail.com">email</a>
-</p>
+not a tutorial person. i build apps i'd actually open tomorrow.
 
----
+```
+~/lab
+├── notesgpt/     voice in → summary + todos out
+└── noted/        a tiny notion that lives in the browser
+```
 
-### Built in public
+→ [notesgpt](https://notessgpt.vercel.app) ([src](https://github.com/abdtriedcoding/notesgpt))  
+→ [noted](https://notedwebapp.vercel.app) ([src](https://github.com/abdtriedcoding/noted))
 
-**[NotesGPT](https://notessgpt.vercel.app)** — speak, get a summary and a to-do list.  
-[live](https://notessgpt.vercel.app) · [source](https://github.com/abdtriedcoding/notesgpt)
+```
+$ cat ~/.stack
+typescript  react  next.js  tailwind  convex
 
-**[Noted](https://notedwebapp.vercel.app)** — a Notion-style workspace that lives in the browser.  
-[live](https://notedwebapp.vercel.app) · [source](https://github.com/abdtriedcoding/noted)
+$ echo $EDITOR
+cursor. obviously.
 
-<p align="center">
-  <sub>TypeScript · React · Next.js · Tailwind · Convex · Vercel</sub>
-</p>
+$ ping abdullah
+```
+
+[mail](mailto:siddabdullah46@gmail.com) · [site](https://abdullahsidd.vercel.app) · [x](https://x.com/abdtriedcoding)
