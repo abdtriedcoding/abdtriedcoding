@@ -25,4 +25,4 @@ cursor. obviously.
 $ ping abdullah
 ```
 
-[mail](mailto:siddabdullah46@gmail.com) · [site](https://abdullahsidd.vercel.app) · [x](https://x.com/abdtriedcoding)
+[mail](mailto:siddabdullah46@gmail.com) · [x](https://x.com/abdtriedcoding)
