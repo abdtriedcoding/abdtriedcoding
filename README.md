@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Javascript, Reactjs, Nextjs, Firebase, Sanity, Tailwind Css.**
 
-- 📫 How to reach me **siddabdullahOfficial@gmail.com**
+- 📫 How to reach me **siddabdullahofficial@gmail.com**
 
 - ⚡ Fun fact **Earlier I think Coding is all about Memorizing the code.**
 
