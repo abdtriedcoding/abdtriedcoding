@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sidddabdullah" target="blank"><img src="https://img.shields.io/twitter/follow/sidddabdullah?logo=twitter&style=for-the-badge" alt="sidddabdullah" /></a> </p>
 
-- 🔭 I’m currently working on [Weather Web](https://github.com/Abdullah-SoftDev/Weather-Web)
+- 🔭 I’m currently working on my open source project.
 
 - 🌱 I’m currently learning **Multiple latest Frameworks**
 
