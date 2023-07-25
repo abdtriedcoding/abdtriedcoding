@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/insta-sidd.appspot.com/o/posts%2FZVfhgWrxXYFjbA9gz7aZ%2Fimage?alt=media&token=b4459eb2-2981-49c7-a72a-0d637cea6c9a)](https://github.com/Abdullah-SoftDev)
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="left">An Experienced developer in developing and deploying web applications.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-softdev&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-softdev" /> </p>
 
