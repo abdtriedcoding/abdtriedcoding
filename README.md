@@ -40,5 +40,5 @@
 </p>
 
 ### My Stats 🔥
-![Ujjwal Github stats](https://github-readme-stats.vercel.app/api?username=abdullah-softdev&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com/?user=abdullah-softdev&theme=dark)](https://git.io/streak-stats) 
+![Abdullah stats](https://github-readme-stats.vercel.app/api?username=abdullah-softdev&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com/?user=abdullah-softdev&theme=dark)](https://git.io/streak-stats) 
 --- | --- 
