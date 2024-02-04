@@ -1,3 +1,5 @@
+[![Header](https://media.licdn.com/dms/image/D4D16AQEnp-QpAttckA/profile-displaybackgroundimage-shrink_350_1400/0/1697892997894?e=1712793600&v=beta&t=_TEc1pfkSReKYPqOCkIZT2d0TCegnAoVAYoY5FBupZc)](https://github.com/sidd-abdullah)
+
 ## Hey! 👋 I'm Abdullah
 ### Web Developer | Experienced in Developing and Deploying Web Applications
 
@@ -23,9 +25,11 @@
 </a>
 <a href="https://www.linkedin.com/in/sidd-abdullah" target="blank"><img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="sidd_abdullah" height="30" width="40" />
 </a>
+<a href="https://leetcode.com/siddabdullahofficial" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sidd_abdullah" height="30" width="40" />
+</a>
 
 ### 🔎 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,ts,react,tailwind,nextjs,c,py,java,gcp,github,git,firebase,appwrite,stackoverflow,vercel,vscode )
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,bootstrap,nextjs,firebase,appwrite,prisma,supabase,postgres,planetscale,mysql,mongodb,gcp,git,github,vercel,vscode,replit,postman)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidd-abdullah&show_icons=true&theme=radical" />
