@@ -1,5 +1,3 @@
-[![Header](https://media.licdn.com/dms/image/D4D16AQEnp-QpAttckA/profile-displaybackgroundimage-shrink_350_1400/0/1697892997894?e=1712793600&v=beta&t=_TEc1pfkSReKYPqOCkIZT2d0TCegnAoVAYoY5FBupZc)](https://github.com/sidd-abdullah)
-
 ## Hey! 👋 I'm Abdullah
 ### Web Developer | Experienced in Developing and Deploying Web Applications
 
