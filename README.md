@@ -1,7 +1,7 @@
 ## Hey! 👋 I'm Abdullah
 ### Web Developer | Experienced in Developing and Deploying Web Applications
 
-![](https://komarev.com/ghpvc/?username=abdullah-softdev)
+![](https://komarev.com/ghpvc/?username=abdtriedcoding)
 
 👨‍💻 Welcome to my GitHub profile! 👨‍💻
 
@@ -19,9 +19,9 @@
 
 ### 🌐 Connect With Me
 
-<a href="https://twitter.com/sidddabdullah" target="blank"><img src="https://www.svgrepo.com/show/452123/twitter.svg" alt="sidddabdullah" height="30" width="40" />
+<a href="https://twitter.com/abdtriedcoding" target="blank"><img src="https://www.svgrepo.com/show/452123/twitter.svg" alt="sidddabdullah" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/sidd-abdullah" target="blank"><img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="sidd_abdullah" height="30" width="40" />
+<a href="https://www.linkedin.com/in/abdtriedcoding" target="blank"><img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="sidd_abdullah" height="30" width="40" />
 </a>
 <a href="https://leetcode.com/siddabdullahofficial" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sidd_abdullah" height="30" width="40" />
 </a>
@@ -30,9 +30,9 @@
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,bootstrap,nextjs,firebase,appwrite,prisma,supabase,postgres,planetscale,mysql,mongodb,gcp,git,github,vercel,vscode,replit,postman)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidd-abdullah&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdtriedcoding&show_icons=true&theme=radical" />
 </p>
 
 ### My Stats 🔥
-![Abdullah stats](https://github-readme-stats.vercel.app/api?username=sidd-abdullah&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com/?user=sidd-abdullah&theme=dark)](https://git.io/streak-stats) 
+![Abdullah stats](https://github-readme-stats.vercel.app/api?username=abdtriedcoding&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com/?user=abdtriedcoding&theme=dark)](https://git.io/streak-stats) 
 --- | --- 
