@@ -1,5 +1,5 @@
 ## Hey! 👋 I'm Abdullah
-### Web Developer | Experienced in Developing and Deploying Web Applications
+### Software Developer | Experienced in Developing and Deploying Software Applications
 
 ![](https://komarev.com/ghpvc/?username=abdtriedcoding)
 
