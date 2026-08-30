@@ -1,4 +1,5 @@
-i tried coding. it stuck.
+i am  
+obsessed with building things for the web 🌐
 
 ```
 ~/lab
